@@ -1,0 +1,30 @@
+body {background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+      color: #ffffff;}
+
+.losmalos{background-color: red;
+          
+}
+.losrebeldes{background-color: blue;
+}
+#Vader {
+    font-size: 5rem;
+    }
+#Luke{ 
+    font-style:italic;
+}
+.soldados{ 
+    border:2ch;
+    letter-spacing: 2ch;
+    text-align:center;
+}
+.apoyo{text-align: center;
+}
+.naves{text-transform: uppercase;
+
+}
+.droides{text-align: center;
+}
+
+
+
+
